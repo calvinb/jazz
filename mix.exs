@@ -4,7 +4,7 @@ defmodule Jazz.Mixfile do
   def project do
     [ app: :jazz,
       version: "0.2.1",
-      elixir: "~> 1.0.0-rc1",
+      elixir: "~> 1.2.0",
       package: package,
       description: "JSON handling library for Elixir." ]
   end
